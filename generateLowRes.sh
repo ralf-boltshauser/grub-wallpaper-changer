@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-cd /home/kali/Pictures
+cd /home/kali/Pictures/grub
 pwd
 rm -rf lowres/
 
